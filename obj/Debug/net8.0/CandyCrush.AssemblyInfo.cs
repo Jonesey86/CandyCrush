@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CandyCrush")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b3c6d39cfa272415c7081e8b46ea3c9a9401ce9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9ccd2284d05cf5f279a2c6b678c89f133e96521")]
 [assembly: System.Reflection.AssemblyProductAttribute("CandyCrush")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CandyCrush")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
